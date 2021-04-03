@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.gbtech" name="[COLOR dodgerblue]GBTech[/COLOR] K18_19 Repository" version="3.0.0" provider-name="GaiaBuilds Tech">
+    <extension point="xbmc.addon.repository" name="[COLOR dodgerblue]GBTech[/COLOR] K18 Repository">
+        <dir minversion="18.0" maxversion="18.9.0">
+            <info compressed="false">https://raw.githubusercontent.com/GBTechWizard/repo/master/leia/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/GBTechWizard/repo/master/leia/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/GBTechWizard/repo/master/leia/zips/</datadir>
+        </dir>
+        <dir minversion="18.9.0">
+            <info compressed="false">https://raw.githubusercontent.com/GBTechWizard/repo/master/matrix/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/GBTechWizard/repo/master/matrix/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/GBTechWizard/repo/master/matrix/zips/</datadir>
+        </dir>
+    </extension>
+    
+    <extension point="xbmc.addon.metadata">
+        <summary>"GaiaBuildsTech Repository"</summary>
+        <description>Home of the GaiaBuildsTech Wizard.</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+        <source>https://gbtechwizard.github.io/repo/</source>
+    </extension>
+</addon>

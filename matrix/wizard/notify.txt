@@ -2,8 +2,8 @@
 |||
 [COLOR gold][I][B]
 VERSÕES ACTUAIS:
-GBTech Repo: 0.1.7
-GBTech Wizard: 1.2.5
+GBTech Repo: 3.0.0
+GBTech Wizard: 2.0.5
 [/B][/I][/COLOR]
 
 GBTech Repo e Wizard

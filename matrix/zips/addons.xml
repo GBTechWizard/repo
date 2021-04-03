@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+
+<addon id="repository.gbtech" name="[COLOR dodgerblue]GBTech[/COLOR] K18_19 Repository" version="3.0.0" provider-name="GaiaBuilds Tech">
+    <extension point="xbmc.addon.repository" name="[COLOR dodgerblue]GBTech[/COLOR] K18 Repository">
+        <dir minversion="17.0" maxversion="18.9.0">
+            <info compressed="false">https://raw.githubusercontent.com/GBTechWizard/repo/master/leia/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/GBTechWizard/repo/master/leia/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/GBTechWizard/repo/master/leia/zips/</datadir>
+        </dir>
+        <dir minversion="18.9.0">
+            <info compressed="false">https://raw.githubusercontent.com/GBTechWizard/repo/master/matrix/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/GBTechWizard/repo/master/matrix/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/GBTechWizard/repo/master/matrix/zips/</datadir>
+        </dir>
+    </extension>
+    
+    <extension point="xbmc.addon.metadata">
+        <summary>"GaiaBuildsTech Repository"</summary>
+        <description>Home of the GaiaBuildsTech Wizard.</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+        <source>https://gbtechwizard.github.io/repo/</source>
+    </extension>
+</addon>
+
+<addon id="plugin.program.gbtwizard" name="GBTech Wizard" version="1.4.7.1" provider-name="GBTech">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0" />
+        <import addon="script.module.requests" />
+        <import addon="script.module.six" />
+    </requires>
+    
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+    </extension>
+    
+    <extension point="xbmc.service" library="startup.py" start="startup" />
+    
+    <extension point="xbmc.addon.metadata">
+    <summary lang="en">GBTech Wizard</summary>
+    <description lang="en">GBTech Wizard allows you to get access to the latest GBTech Custom Builds and Addons.</description>
+        <platform>all</platform>
+        <reuselanguageinvoker>false</reuselanguageinvoker>
+        <source>https://github.com/GBTechWizard/repo/</source>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.png</fanart>
+        </assets>
+    </extension>
+</addon>
+
+<addon
+	id="plugin.video.GRiptv"
+	name="GRiptv IPTV"
+	version="2.0.0"
+	provider-name="Xmapiss">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Official GRiptv Addon</summary>
+		<description>Official GRiptv Addon</description>
+		<platform>all</platform>
+		<license/>
+		<forum/>
+		<website/>
+		<email/>
+		<source/>
+	</extension>
+</addon>
+
+</addons>

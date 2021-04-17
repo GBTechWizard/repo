@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.program.gbtwizard" name="GBTech Wizard" version="1.4.7.1" provider-name="GBTech">
+<addon id="plugin.program.gbtwizard" name="GBTech Wizard" version="1.4.8" provider-name="GBTech">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.requests" />

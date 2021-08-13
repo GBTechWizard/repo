@@ -6,30 +6,6 @@
 			<icon>https://cld.pt/dl/download/4a589242-8ce5-4297-882a-557bd26d447f/GBTech_Builds.png</icon>
 			<fanart>https://cld.pt/dl/download/3038cc0c-80f1-46e3-918e-18c45b8b92c3/fanart.jpg</fanart>
 			<description>Build IPTV para Kodi 17</description>
-        </build>
+		</build>
 
-		<build name = "Build IPTV para Kodi 18">
-			<version>1.0</version>
-			<url>https://cld.pt/dl/download/f9fe6ddb-9e1b-4fad-b4c2-b592ab759504/Kodi_IPTV_18_9.zip</url>
-			<icon>https://cld.pt/dl/download/4a589242-8ce5-4297-882a-557bd26d447f/GBTech_Builds.png</icon>
-			<fanart>https://cld.pt/dl/download/3038cc0c-80f1-46e3-918e-18c45b8b92c3/fanart.jpg</fanart>
-			<description>Build IPTV Netflix HBO Disney Plus</description>
-        </build>	
-
-		<build name = "Build IPTV para Kodi 18 Android">
-			<version>1.0</version>
-			<url>https://cld.pt/dl/download/f8a77e49-ae2e-4657-bfe7-978662cf2ef7/Kodi_IPTV_18_9_Android.zip</url>
-			<icon>https://cld.pt/dl/download/4a589242-8ce5-4297-882a-557bd26d447f/GBTech_Builds.png</icon>
-			<fanart>https://cld.pt/dl/download/3038cc0c-80f1-46e3-918e-18c45b8b92c3/fanart.jpg</fanart>
-			<description>Build IPTV Netflix HBO Disney Plus Android</description>
-        </build>
-		
-		<build name = "Test Build Kodi 18">
-			<version>1.2</version>
-			<url>https://cld.pt/dl/download/0065b483-0264-40e4-9afb-c498f1c2f58a/Test_Build.zip</url>
-			<icon>https://cld.pt/dl/download/4a589242-8ce5-4297-882a-557bd26d447f/GBTech_Builds.png</icon>
-			<fanart>https://cld.pt/dl/download/3038cc0c-80f1-46e3-918e-18c45b8b92c3/fanart.jpg</fanart>
-			<description>Build de Teste - NÃO USAR</description>
-        </build>
-
-    </builds>	
+	</builds>	

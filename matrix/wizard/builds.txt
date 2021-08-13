@@ -15,4 +15,3 @@ preview="http://"
 adult="No"
 info="https://cld.pt/dl/download/da15ea20-4ed2-4f82-9e57-4131197d4719/ArcticZypher2Build.txt"
 description="GBTech Arctic Zypher 2 Mod  Build"
-

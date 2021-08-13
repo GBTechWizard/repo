@@ -2,9 +2,9 @@ id="plugin.program.gbtwizard"
 version="2.0.7"
 zip="https://raw.githubusercontent.com/GBTechWizard/repo/master/matrix/zips/"
 
-name="GBTech Arctic Zypher Build"
+name="GBTech Arctic Zypher 2 Mod  Build"
 version="1.0"
-url="https://cld.pt/dl/download/0658d1ab-53d7-4786-953d-d019e1f2cb65/ArcticZephyr.zip"
+url="https://cld.pt/dl/download/732c3526-003c-421a-8cfc-e5780ab476c2/ArcticZypher2Build.zip"
 minor="http://"
 gui="https://"
 kodi="19"
@@ -14,5 +14,4 @@ fanart="https://cld.pt/dl/download/3038cc0c-80f1-46e3-918e-18c45b8b92c3/fanart.j
 preview="http://"
 adult="No"
 info="https://cld.pt/dl/download/da15ea20-4ed2-4f82-9e57-4131197d4719/ArcticZypher2Build.txt"
-description="GBTech Arctic Zypher Build"
-
+description="GBTech Arctic Zypher 2 Mod  Build"

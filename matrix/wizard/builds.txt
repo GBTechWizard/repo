@@ -4,7 +4,7 @@ zip="https://raw.githubusercontent.com/GBTechWizard/repo/master/matrix/zips/"
 
 name="GBTech Arctic Zypher 2 Mod  Build"
 version="1.0"
-url="https://cld.pt/dl/download/732c3526-003c-421a-8cfc-e5780ab476c2/ArcticZypher2Build.zip"
+url="https://cld.pt/dl/download/6259374f-9d0f-46c9-a3dc-4581ff12aec3/ArcticZypher2Build.zip"
 minor="http://"
 gui="https://"
 kodi="19"

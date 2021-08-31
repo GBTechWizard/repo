@@ -32,7 +32,7 @@ description="GBTech Arctic Zypher 2 Mod Build"
 
 name="Test Build Pessoal Kodi 19"
 version="1.0"
-url="https://cld.pt/dl/download/ff124e4a-a1b9-4a62-8d6b-88134ad2ca9d/Teste_Build_K19.zip"
+url="https://cld.pt/dl/download/c72dc6ee-19d6-4e90-9084-92e0c3d07182/Test_Build_K19.zip"
 minor="http://"
 gui="https://"
 kodi="19"

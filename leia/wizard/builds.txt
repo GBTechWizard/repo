@@ -1,5 +1,5 @@
 id="plugin.program.gbtwizard"
-version="1.4.1"
+version="1.4.9"
 zip="https://raw.githubusercontent.com/GBTechWizard/repo/master/zips/"
 
 name="Build IPTV para Kodi 17"

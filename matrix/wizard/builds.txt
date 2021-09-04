@@ -13,7 +13,7 @@ icon="https://cld.pt/dl/download/32cac047-2601-4dad-88b5-9103345762fb/GBTechFlix
 fanart="https://cld.pt/dl/download/32cac047-2601-4dad-88b5-9103345762fb/GBTechFlix_K19.png"
 preview="https://"
 adult="No"
-info="https://cld.pt/dl/download/5e311089-1604-4d01-a98a-a4503efb344b/GBTechFlix_K19.txt"
+info="https://cld.pt/dl/download/6aa089f3-1928-4329-baaa-24d4d2247527/GBTechFlix_K19.txt"
 description="GBTech Flix Kodi 19 Build"
 
 name="Test GBTechFlix K19"

@@ -18,7 +18,7 @@ description="GBTech Flix Kodi 19 Build"
 
 name="Test Build Pessoal Kodi 19"
 version="1.0"
-url="https://cld.pt/dl/download/ff43912d-0dbf-4ad0-844c-55f07e0fec2d/Test_GBTechFlix_K19.zip"
+url="https://cld.pt/dl/download/ce8206d3-16d8-49f2-b1ec-6c5a6496028c/Test_GBTechFlix_K19.zip"
 minor="http://"
 gui="https://"
 kodi="19"

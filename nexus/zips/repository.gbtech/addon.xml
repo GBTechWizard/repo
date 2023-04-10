@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.gbtech" name="[COLOR dodgerblue]GBTech[/COLOR] Repository" version="3.0.0" provider-name="GaiaBuilds Tech">
-    <extension point="xbmc.addon.repository" name="[COLOR dodgerblue]GBTech[/COLOR] Repository">
+    <extension point="xbmc.addon.repository" name="GBTechRepo">
         <dir minversion="18.0.0" maxversion="18.9.9">
 			<info compressed="false">https://raw.githubusercontent.com/GBTechWizard/repo/master/leia/zips/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/GBTechWizard/repo/master/leia/zips/addons.xml.md5</checksum>
-			<datadir zip="true">https://github.com/GBTechWizard/repo/tree/master/leia/zips</datadir>
+			<datadir zip="true">https://raw.githubusercontent.com/GBTechWizard/repo/master/leia/zips</datadir>
 		</dir>
         <dir minversion="19.0.0" maxversion="19.9.9">
 			<info compressed="false">https://raw.githubusercontent.com/GBTechWizard/repo/master/matrix/zips/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/GBTechWizard/repo/master/matrix/zips/addons.xml.md5</checksum>
-			<datadir zip="true">https://github.com/GBTechWizard/repo/tree/master/matrix/zips</datadir>
+			<datadir zip="true">https://raw.githubusercontent.com/GBTechWizard/repo/master/matrix/zips</datadir>
         </dir>
         <dir minversion="20.0.0" maxversion="20.9.9">
 			<info compressed="false">https://raw.githubusercontent.com/GBTechWizard/repo/master/nexus/zips/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/GBTechWizard/repo/master/nexus/zips/addons.xml.md5</checksum>
-			<datadir zip="true">https://github.com/GBTechWizard/repo/tree/master/nexus/zips</datadir>
+			<datadir zip="true">https://raw.githubusercontent.com/GBTechWizard/repo/master/nexus/zips</datadir>
         </dir>
     </extension>
     

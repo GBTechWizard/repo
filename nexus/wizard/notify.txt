@@ -1,17 +1,17 @@
-1
+3
 |||
+[COLOR gold][I][B]
+VERSÕES ACTUAIS:
+GBTech Repo: 3.0.0
+GBTech Wizard: 2.0.5
+[/B][/I][/COLOR]
 
+GBTech Repo e Wizard
 
+Podemos alojar qualquer addon, skin, build desde que sejam de uso livre.
+Por favor, certifique-se de dar uma boa vista de olhos ao que temos para oferecer. 
 
+Qualquer dúvida que você tenha entre em contato para o email gbtechwizard@gmail.com. 
 
-
-<><><><><> 7o9 Builds <><><><><>
-
-7o9 Repository - https://zaxxon709.github.io/repo/
-7o9 Forks - https://dr-venture.com/apks/kodi/709Forks/
-
-<><><> Current Builds <><><>
-Xlite  -  Xlite Switch  -  Xlite Plus  -  Klix  -  Klix Free  -  OneFlix  -  Game On
-
-<><><> Current Minimal Builds <><><>
-Estuary Switch  -  Arctic Rain  -  POVico  -  InFENity  -  SERENity
+Obrigado,
+A equipa GBTech Wizard.

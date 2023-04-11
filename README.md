@@ -1,5 +1,5 @@
 # GBTech Official Repository
-# Current Version: 3.0.0
+# Current Version: 3.0.3
 
 ## Repository addon
 

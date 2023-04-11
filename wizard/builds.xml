@@ -1,8 +1,8 @@
 <builds>
 	<build>
 		<name>GBTech ArticNexus Build - Kodi 20</name>
-		<version>1.0</version>
-		<url>https://cld.pt/dl/download/5ea5e9b2-d804-46d0-b316-ab4e7cd7468a/ArticNexusBuild.zip</url>
+		<version>1.1</version>
+		<url>https://cld.pt/dl/download/2b86f456-f3ce-4057-bacd-de9b883073d0/ArticNexusBuild_1.1.zip</url>
 		<icon>https://cld.pt/dl/download/cbb45129-2b13-4d85-ba4c-37893ef7ba88/ArticNexusBuild.png</icon>
 		<fanart>https://cld.pt/dl/download/cbb45129-2b13-4d85-ba4c-37893ef7ba88/ArticNexusBuild.png</fanart>
 		<description>Minimal Build - Debrid Only - Updated Abr 11-2023</description>

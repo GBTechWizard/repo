@@ -1,17 +1,20 @@
 3
 |||
 [COLOR gold][I][B]
-VERSÕES ACTUAIS:
-GBTech Repo: 3.0.0
-GBTech Wizard: 2.0.5
+CURRENT VERSIONS / VERSÕES ACTUAIS:
+GBTech Repo: 3.0.3
+GBTech Wizard: 3.0.3
 [/B][/I][/COLOR]
-
-GBTech Repo e Wizard
-
+GBTech Repo / Wizard
+----------------------------------------------------------------------------------------
 Podemos alojar qualquer addon, skin, build desde que sejam de uso livre.
 Por favor, certifique-se de dar uma boa vista de olhos ao que temos para oferecer. 
-
 Qualquer dúvida que você tenha entre em contato para o email gbtechwizard@gmail.com. 
-
 Obrigado,
 A equipa GBTech Wizard.
+----------------------------------------------------------------------------------------
+We can host any addon, skin, build as long as they are free to use.
+Please be sure to take a good look at what we have to offer.
+If you have any questions, please contact gbtechwizard@gmail.com.
+Thanks,
+The GBTech Wizard team.

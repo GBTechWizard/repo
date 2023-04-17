@@ -1,7 +1,7 @@
 <builds>
 	<build>
 		<name>GBTech Artic Build - TvBox - Kodi 20</name>
-		<version>1.1</version>
+		<version>1.0</version>
 		<url>https://cld.pt/dl/download/fd418ff8-7c39-4fc7-9ba4-c9b006592bb3/TvBoxBuild.zip</url>
 		<icon>https://cld.pt/dl/download/cbb45129-2b13-4d85-ba4c-37893ef7ba88/ArticNexusBuild.png</icon>
 		<fanart>https://cld.pt/dl/download/cbb45129-2b13-4d85-ba4c-37893ef7ba88/ArticNexusBuild.png</fanart>

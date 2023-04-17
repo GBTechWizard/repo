@@ -1,8 +1,8 @@
 <builds>
 	<build>
 		<name>GBTech Artic Build - TvBox - Kodi 20</name>
-		<version>1.0</version>
-		<url>https://cld.pt/dl/download/fd418ff8-7c39-4fc7-9ba4-c9b006592bb3/TvBoxBuild.zip</url>
+		<version>1.1</version>
+		<url>https://cld.pt/dl/download/0d90e86c-563a-4d6e-b847-4ad1225f15e7/TvBoxBuild_1.1.zip</url>
 		<icon>https://cld.pt/dl/download/cbb45129-2b13-4d85-ba4c-37893ef7ba88/ArticNexusBuild.png</icon>
 		<fanart>https://cld.pt/dl/download/cbb45129-2b13-4d85-ba4c-37893ef7ba88/ArticNexusBuild.png</fanart>
 		<description>Artic TvBox Build - Debrid Only - Updated 17 Abr 2023</description>

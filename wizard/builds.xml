@@ -1,18 +1,10 @@
 <builds>
 	<build>
-		<name>GBTech Artic Build - TvBox - Kodi 20</name>
-		<version>1.2</version>
-		<url>https://cld.pt/dl/download/6641940b-953c-4334-8aa4-0b3eaa0b7fa2/ArticTvBoxBuild_1.2.zip</url>
-		<icon>https://cld.pt/dl/download/cbb45129-2b13-4d85-ba4c-37893ef7ba88/ArticNexusBuild.png</icon>
-		<fanart>https://cld.pt/dl/download/cbb45129-2b13-4d85-ba4c-37893ef7ba88/ArticNexusBuild.png</fanart>
-		<description>Artic TvBox Build - Debrid Only - Updated 17 Abr 2023</description>
-	</build>
-	<build>
-		<name>GBTech CosmicFlix Build - TvBox - Kodi 20</name>
+		<name>GBTech Arctic.Zephyr Build - TvBox - Kodi 20</name>
 		<version>1.0</version>
-		<url>https://cld.pt/dl/download/6ab05c91-b3e1-48db-954a-79fe2fd4c4eb/CosmicFlix_1.0.zip</url>
-		<icon>https://cld.pt/dl/download/6d4aa32c-bac2-4c65-a0d4-a36844e676f9/CosmicFlixBuild.png</icon>
-		<fanart>https://cld.pt/dl/download/6d4aa32c-bac2-4c65-a0d4-a36844e676f9/CosmicFlixBuild.png</fanart>
-		<description>Cosmic TvBox Build - Debrid Only - Updated 01 Mai 2023</description>
+		<url>https://cld.pt/dl/download/35cd3294-7a54-47e7-a240-eb7b55c3ffad/Arctic.Zephyr_1.0.zip</url>
+		<icon>https://cld.pt/dl/download/3188ef39-5270-4301-b1f8-c32f67da8b2a/GBTech_Builds.png</icon>
+		<fanart>https://cld.pt/dl/download/d9e059cd-2bdf-45d5-8a20-eaae7ea60411/Arctic.Zephyr.png</fanart>
+		<description>Arctic.Zephyr TvBox Build - Debrid Only - Updated 12 May 2023</description>
 	</build>
 </builds>

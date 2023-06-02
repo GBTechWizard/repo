@@ -15,4 +15,12 @@
 		<fanart>https://cld.pt/dl/download/9b75c7a7-015a-432a-a084-a5ef07d0f4d3/XonfluenceBuild.png</fanart>
 		<description>Xonfluence Build - Debrid Only - Updated 16 May 2023</description>
 	</build>
+	<build>
+		<name>GBTech Test Build - Kodi 20</name>
+		<version>1.0</version>
+		<url>https://cld.pt/dl/download/9c231d21-1edf-466f-869e-9dffce0ed62a/TesteAuraBuild_v1.0.zip</url>
+		<icon>https://cld.pt/dl/download/3188ef39-5270-4301-b1f8-c32f67da8b2a/GBTech_Builds.png</icon>
+		<fanart>https://cld.pt/dl/download/c797812b-3bd2-46f2-8c39-813859f751c6/fanart.jpg</fanart>
+		<description>Test Build - Debrid Only - Updated 02 Jun 2023</description>
+	</build>
 </builds>

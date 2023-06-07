@@ -23,4 +23,12 @@
 		<fanart>https://cld.pt/dl/download/c797812b-3bd2-46f2-8c39-813859f751c6/fanart.jpg</fanart>
 		<description>Test Build - Debrid Only - Updated 02 Jun 2023</description>
 	</build>
+	<build>
+		<name>GBTech Horizon Test Build - Kodi 20</name>
+		<version>1.0</version>
+		<urlhttps://cld.pt/dl/download/0ce6d091-2594-4088-87a1-468954ea33a3/Horizon2Build.zip</url>
+		<icon>https://cld.pt/dl/download/cbb45129-2b13-4d85-ba4c-37893ef7ba88/ArticNexusBuild.png</icon>
+		<fanart>https://cld.pt/dl/download/cbb45129-2b13-4d85-ba4c-37893ef7ba88/ArticNexusBuild.png/fanart>
+		<description>Horizon Test Build - Debrid Only - Updated 07 Jun 2023</description>
+	</build>
 </builds>

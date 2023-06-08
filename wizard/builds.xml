@@ -1,10 +1,34 @@
 <builds>
-  <build>
-    <name>GBTech Arctic.Zephyr Build - TvBox - Kodi 20</name>
+	<build>
+		<name>GBTech Arctic.Zephyr Build - TvBox - Kodi 20</name>
 		<version>1.0</version>
 		<url>https://cld.pt/dl/download/35cd3294-7a54-47e7-a240-eb7b55c3ffad/Arctic.Zephyr_1.0.zip</url>
 		<icon>https://cld.pt/dl/download/3188ef39-5270-4301-b1f8-c32f67da8b2a/GBTech_Builds.png</icon>
 		<fanart>https://cld.pt/dl/download/d9e059cd-2bdf-45d5-8a20-eaae7ea60411/Arctic.Zephyr.png</fanart>
 		<description>Arctic.Zephyr TvBox Build - Debrid Only - Updated 12 May 2023</description>
+	</build>
+	<build>
+		<name>GBTech Xonfluence Build - Kodi 20</name>
+		<version>1.0</version>
+		<url>https://cld.pt/dl/download/b3580c19-4258-45a4-a479-6baba7206c26/XonfluenceBuild-1.0.zip</url>
+		<icon>https://cld.pt/dl/download/3188ef39-5270-4301-b1f8-c32f67da8b2a/GBTech_Builds.png</icon>
+		<fanart>https://cld.pt/dl/download/9b75c7a7-015a-432a-a084-a5ef07d0f4d3/XonfluenceBuild.png</fanart>
+		<description>Xonfluence Build - Debrid Only - Updated 16 May 2023</description>
+	</build>
+	<build>
+		<name>GBTech Horizon 2 Build - Kodi 20</name>
+		<version>1.0</version>
+		<url>https://cld.pt/dl/download/0ce6d091-2594-4088-87a1-468954ea33a3/Horizon2Build.zip</url>
+		<icon>https://cld.pt/dl/download/cbb45129-2b13-4d85-ba4c-37893ef7ba88/ArticNexusBuild.png</icon>
+		<fanart>https://cld.pt/dl/download/cbb45129-2b13-4d85-ba4c-37893ef7ba88/ArticNexusBuild.png<fanart>
+		<description>Horizon 2 Build - Debrid Only - Updated 07 Jun 2023</description>
+	</build>
+	<build>
+		<name>GBTech Test Build - Kodi 20</name>
+		<version>1.0</version>
+		<url>https://cld.pt/dl/download/9c231d21-1edf-466f-869e-9dffce0ed62a/TesteAuraBuild_v1.0.zip</url>
+		<icon>https://cld.pt/dl/download/3188ef39-5270-4301-b1f8-c32f67da8b2a/GBTech_Builds.png</icon>
+		<fanart>https://cld.pt/dl/download/c797812b-3bd2-46f2-8c39-813859f751c6/fanart.jpg</fanart>
+		<description>Test Build - Debrid Only - Updated 02 Jun 2023</description>
 	</build>
 </builds>

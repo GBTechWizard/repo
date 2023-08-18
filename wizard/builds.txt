@@ -14,7 +14,7 @@ description="====GBTech K20 Builds Below===="
 
 name="GBTech Fentastic Build - TvBox - Kodi 20"
 version="3.0"
-url="https://cld.pt/dl/download/454eb4bf-df67-400e-9f1a-f7ae56eceb53/FentasticBuild_v3.zip"
+url="https://cld.pt/dl/download/f6c98f49-6586-402f-b444-83b7688c897d/FentasticBuild_v5.zip"
 minor="http://"
 gui="http://"
 kodi="20"

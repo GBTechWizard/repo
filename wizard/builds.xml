@@ -1,10 +1,18 @@
 <builds>
 	<build>
-		<name>GBTech NxtFlixPT Build - TvBox - Kodi 20</name>
+		<name>GBTech NxtFlixPT Build - TvBox - Kodi 21</name>
 		<version>6.0</version>
 		<url>https://cld.pt/dl/download/50e639e3-8246-4887-be42-4404881cc703/NxtFlixPT.zip</url>
 		<icon>https://cld.pt/dl/download/f32f30b8-6732-4d8f-9a66-8a97c5e5f27c/NxtFlixPT.png</icon>
 		<fanart>https://cld.pt/dl/download/f32f30b8-6732-4d8f-9a66-8a97c5e5f27c/NxtFlixPT.png</fanart>
 		<description>"NxtFlixPT Skin and Addon TvBox Build - Debrid Only - Updated 27 Ago 2023"</description>
+	</build>
+	<build>
+		<name>GBTech Fentastic Build - TvBox - Kodi 21</name>
+		<version>6.0</version>
+		<url>https://cld.pt/dl/download/ef763c25-8d11-4097-baad-98cb45563f5e/FentasticBuild.zip</url>
+		<icon>https://cld.pt/dl/download/df824cc1-9aff-45eb-baab-55ea4667f9ba/FentasticBuild.png</icon>
+		<fanart>https://cld.pt/dl/download/df824cc1-9aff-45eb-baab-55ea4667f9ba/FentasticBuild.png</fanart>
+		<description>"Fentastic Nimbus Skin TvBox Build - Debrid Only - Updated 27 Sep 2024"</description>
 	</build>
 </builds>
